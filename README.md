@@ -1,4 +1,5 @@
-It is Deep learning project that remembers patterns for Question-Answering. We have a trained model which works as an interactive chatbot named"garrula"
+An application of Question-Answering(sub-field Natural Language Processing) using techniques of Deep.
+We have a trained model which works as an interactive chatbot named"garrula"
 garrula on a particular dataset.For example Cornell Movie--Dialogs.
 The conversational reponses(304,713 utterances) exchanged between 9,035 characters from 617 movies mimics a question-Answering pattern which is used to build a chatbot.
 
