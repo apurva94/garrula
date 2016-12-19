@@ -1,0 +1,6 @@
+model_checkpoint_path: "encdec.ckpt-1074300"
+all_model_checkpoint_paths: "encdec.ckpt-1073100"
+all_model_checkpoint_paths: "encdec.ckpt-1073400"
+all_model_checkpoint_paths: "encdec.ckpt-1073700"
+all_model_checkpoint_paths: "encdec.ckpt-1074000"
+all_model_checkpoint_paths: "encdec.ckpt-1074300"

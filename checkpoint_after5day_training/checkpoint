@@ -1,0 +1,3 @@
+model_checkpoint_path: "encdec.ckpt-1528500"
+all_model_checkpoint_paths: "encdec.ckpt-1528200"
+all_model_checkpoint_paths: "encdec.ckpt-1528500"
