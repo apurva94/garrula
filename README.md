@@ -1,6 +1,7 @@
+-usingencDec-RNN_with_LSTM-cells+_Attention-based_mechanism(TensorFlow)
+
 An application of Question-Answering(sub-field Natural Language Processing) using techniques of Deep.
-We have a trained model which works as an interactive chatbot named"garrula"
-garrula on a particular dataset.For example Cornell Movie--Dialogs.
+We have a trained model which works as an interactive chatbot named"garrula" on Cornell Movie--Dialogs datase.
 The conversational reponses(304,713 utterances) exchanged between 9,035 characters from 617 movies mimics a question-Answering pattern which is used to build a chatbot.
 
 
